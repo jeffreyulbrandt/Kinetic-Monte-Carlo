@@ -15,7 +15,7 @@ Must install any standard python3 package containing Cython. Anaconda is recomme
 - Once python extension files are generated, you can move the .pyx, .pxd, and the setup.py files to a seperate folder (example: src) to reduce clutter
 - All .py and python extenstion files (.so on Linux/Mac) must be in the same directory as the Input Script file to run the simulation.
 
-- ## How to install (Windows with Anaconda)
+## How to install (Windows with Anaconda)
 - Download all files from github to a local directory
   -  name the directory KMC_v3.4.1
 - Open Anaconda Prompt and cd to the directory
