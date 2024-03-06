@@ -12,7 +12,7 @@ Must install any standard python package containing Cython. Anaconda is recommen
 - Download all files from github to a local directory
 - Open terminal and go to the directory
 - Type: python setup.py build_ext --inplace
-- Once python extension files are generated, you can move the .pyx, .pxd, and the setup.py files to a seperate folder (i.e. src) to reduce clutter
+- Once python extension files are generated, you can move the .pyx, .pxd, and the setup.py files to a seperate folder (example: src) to reduce clutter
 - All .py and python extenstion files (.so on Linux/Mac) must be in the same directory as the Input Script file to run the simulation.
 
 - ## How to install (Windows with Anaconda)
@@ -22,7 +22,7 @@ Must install any standard python package containing Cython. Anaconda is recommen
   - should say (base) next to directory
   - example: cd\Documents\KMC_v3.4.1
 - Type: python setup.py build_ext --inplace
-- Once python extension files are generated, you can move the .pyx, .pxd, .cpp, Chrome Documents, and the setup.py files to a seperate folder (i.e. src) to reduce clutter
+- Once python extension files are generated, you can move the .pyx, .pxd, .cpp, Chrome Documents, and the setup.py files to a seperate folder (example: src) to reduce clutter
 - All .py, .ipynb, and python extenstion files (.pyd) must be in the same directory as the Input Script file to run the simulation.
 
 
