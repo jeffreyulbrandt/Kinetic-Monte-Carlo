@@ -5,7 +5,7 @@ Kinetic Monte-Carlo code to simulate Pulsed Laser Deposition
 
 ## System Rquirements
 Tested on Windows and Linux (also should work on Mac).
-Must install any standard python package containing Cython. Anaconda is recommended.
+Must install any standard python3 package containing Cython. Anaconda is recommended.
 
 
 ## How to install (Linux)
